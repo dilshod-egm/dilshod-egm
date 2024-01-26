@@ -15,8 +15,10 @@
 ## [Lecture-Note](https://github.com/dilshod-egm/lecture-note)
 ## [ElpTodo](https://github.com/dilshod-egm/elptodo)
 ## [GestureDraw](https://github.com/dilshod-egm/gesturedraw)
+## [Altera](https://dilshod-egm.github.io/altera/)
 ## [dilshodegm](https://github.com/dilshod-egm/dilshodegm)
-## [dilshodegm](https://github.com/dilshod-egm/dilshodegm)
+## [Realco](https://dilshod-egm.github.io/Realco/)
+## [Adriano](https://adriano.on.fleek.co/home.html)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshod-egm&show_icons=true&locale=en&layout=compact" alt="dilshod-egm" /></p>
 
