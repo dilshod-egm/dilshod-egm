@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **dilshodegm17@gmail.com**
 
+# Examples of My Projects 
+## [Lecture-Note](https://github.com/dilshod-egm/lecture-note)
+## [ElpTodo](https://github.com/dilshod-egm/elptodo)
+## [GestureDraw](https://github.com/dilshod-egm/gesturedraw)
+## [dilshodegm](https://github.com/dilshod-egm/dilshodegm)
+## [dilshodegm](https://github.com/dilshod-egm/dilshodegm)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshod-egm&show_icons=true&locale=en&layout=compact" alt="dilshod-egm" /></p>
 
